@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning some QAs techs using Alura courses and talking with some friends. Just getting started in development and learning a log.
+I’m currently learning some QAs techs using Alura courses and talking with some friends. Just getting started in development and learning a lot.
 
 I’m looking to collaborate on software test or in software development.
 
