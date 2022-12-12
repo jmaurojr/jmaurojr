@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently learning some QAs techs using Alura courses and talking with some friends. Just getting started in development and learning a log.
+
+I’m looking to collaborate on software test or in software development.
+
+⚡ Fun fact: I´m a boy scout. (once a scout always a scout).
+
 <!--
 **jmaurojr/jmaurojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
